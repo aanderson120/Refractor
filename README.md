@@ -2,8 +2,6 @@
 
 * Refracted page for Horiseon
 
-* https://aanderson120.github.io/Refractor/.
-
 -- Description --
 
 * Code was provided without semantic tags and with excessive id tags and classes for CSS. My role was to follow accessibilty standards by add semantic tags, simplify codes, and fix any broken links. While maintaining the look of the page and allowing for optimization for search engines. 
