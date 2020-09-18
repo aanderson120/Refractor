@@ -2,7 +2,7 @@
 
 * Refracted page for Horiseon
 
-* https://aanderson120.github.io/Refractor/
+* https://aanderson120.github.io/Refractor/.
 
 -- Description --
 
